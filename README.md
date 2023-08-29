@@ -1,5 +1,6 @@
-# TSA
-# Project Title: Analysis and prediction of microsoft file which contains stocks and credits of IT from. Prediction the value of stock in future by three chategory "Open ","High" and "Low"
+# TSA:
+# Project Title:
+Analysis and prediction of microsoft file which contains stocks and credits of IT from. Prediction the value of stock in future by three chategory "Open ","High" and "Low"
 # Problem Statement:
 This comprehensive dataset provides a detailed analysis of Microsoft Corporation's stock performance from 1986 to 2023. It encompasses various important parameters, including stock price, low price, *high * price, and trading volume, to provide a comprehensive overview of the company's market behavior throughout the years.
 
@@ -16,10 +17,9 @@ Please note that this dataset serves as a valuable historical resource and shoul
 # Discription:
 The Dataset provides the history of daily prices of miceosoft stock depending on USD
 # Project Visualizing:
-![image](https://github.com/PAkanksha008/TSA/assets/143333014/c325ee71-932b-4b0f-ad93-0b668e217af1)
-![image](https://github.com/PAkanksha008/TSA/assets/143333014/29a72b84-7160-4b06-b109-816407482bfb)
-
-
+![image](https://github.com/PAkanksha008/TSA/assets/143333014/5cc88a16-a784-406e-8370-1de4b85de2f1)
+![image](https://github.com/PAkanksha008/TSA/assets/143333014/ae87cb1b-4741-4deb-9cc0-25da5cb3ea1f)
+![image](https://github.com/PAkanksha008/TSA/assets/143333014/4b1a234b-29e4-4a81-a4f5-6809a8b5ebaf)
 # Conclusion:
 1.According to tha analysis of data this particular dataset we found that "Open", "High", "Low", "Close". As the columns in which tr  in increasing manner but in year 2021 the stocks are goes in the decreasing manner.
 
