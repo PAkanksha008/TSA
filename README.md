@@ -16,8 +16,10 @@ Please note that this dataset serves as a valuable historical resource and shoul
 # Discription:
 The Dataset provides the history of daily prices of miceosoft stock depending on USD
 # Project Visualizing:
-![image](https://github.com/PAkanksha008/TSA/assets/143333014/572e0cc6-cab9-492a-aa7e-df2b2266086c)
-![image](https://github.com/PAkanksha008/TSA/assets/143333014/77872986-6f20-423c-8711-351ffc2ab90b)
+![image](https://github.com/PAkanksha008/TSA/assets/143333014/c325ee71-932b-4b0f-ad93-0b668e217af1)
+![image](https://github.com/PAkanksha008/TSA/assets/143333014/29a72b84-7160-4b06-b109-816407482bfb)
+
+
 # Conclusion:
 1.According to tha analysis of data this particular dataset we found that "Open", "High", "Low", "Close". As the columns in which tr  in increasing manner but in year 2021 the stocks are goes in the decreasing manner.
 
